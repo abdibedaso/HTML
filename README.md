@@ -19,6 +19,7 @@ HTML page, **1 - Structure** folder in the file part1.html.
 		Hello, World!	
 	</body>
 </html>
+```
 
 • DOCTYPE tag tells browser the HTML version.
 • The header describes the page and the body contains the page's contents.
@@ -32,6 +33,7 @@ Information describing the page.
 <meta name="description" content=“Learn HTML"/>
 <meta name="keywords" content=“HTML,CSS"/>
 <meta name=“viewport" content=“width=device-width, initial-scale=1.0"/>
+```
 
 • Placed in the head section of your HTML page
 
@@ -42,6 +44,7 @@ Icon for browser title bar and Bookmarks.
 ```html
 <link href="https://avatars.githubusercontent.com/u/86274569?v=4" type="MIME type" rel=“relationship"/>
 <link href="https://avatars.githubusercontent.com/u/86274569?v=4" type="image/gif" rel="shortcut icon"/>
+```
 
 • Placed in the head section of your HTML page.
 
