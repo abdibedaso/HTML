@@ -45,4 +45,13 @@ Icon for browser title bar and Bookmarks.
 
 • Placed in the head section of your HTML page.
 
+
+### Block Level Elements
+
+Element starting on a new line and that takes up the full width available.
+
+• Paragraph <p>
+• Headings <h1> - <h6>
+• Horizontal Rule <hr/>
+
 ### 
