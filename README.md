@@ -1,8 +1,6 @@
-# HTML-CSS
+# HTML
+
 =================
-
-HTML+CSS
-
 ### HTML Tag Structure
 
 HTML page, **1 - Structure** folder in the file part1.html.
@@ -24,6 +22,7 @@ HTML page, **1 - Structure** folder in the file part1.html.
 • DOCTYPE tag tells browser the HTML version.
 • The header describes the page and the body contains the page's contents.
 
+=================
 ### Web Page Metadata
 
 Information describing the page.
@@ -37,7 +36,8 @@ Information describing the page.
 
 • Placed in the head section of your HTML page
 
-### favicon - Favorites icon
+=================
+### Favorites icon - favicon 
 
 Icon for browser title bar and Bookmarks.
 
@@ -49,12 +49,38 @@ Icon for browser title bar and Bookmarks.
 • Placed in the head section of your HTML page.
 
 
-### Block Level Elements
+=================
+### HTML Elements
 
 Element starting on a new line and that takes up the full width available.
 
-• Paragraph <p>
-• Headings <h1> - <h6>
-• Horizontal Rule <hr/>
+• Paragraph
+• Headings
+• Images
+• links
+• Ordered List
+• UnOrdered List
+• Definition List
+• Block Quote
+• Quote
+• Abbrevation
+• Code
+• Phrase
+• Preformatted Text
+• Tables
+• Horizontal Rule
+• Line Break
 
-### 
+<hr/>
+<div align="center">
+  <h3> HTML </h3>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/abdibedaso/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <br/>
+<sub>Author:
+    <a href="https://www.linkedin.com/in/abdibedaso/" target="_blank">Abdi T. Bedaso</a>
+    <br>
+    <small> September, 2021</small>
+</sub>
+</div>
